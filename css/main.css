@@ -129,12 +129,10 @@ body {
 .nav-list a.active::after,
 .nav-list a:hover::after {
   content: "";
-
   position: absolute;
   left: 0;
   bottom: -6px;
   right: 10px;
-
   display: block;
   width: 35px;
   height: 4px;
